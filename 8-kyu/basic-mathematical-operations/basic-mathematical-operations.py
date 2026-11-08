@@ -9,7 +9,6 @@ def basic_op(operator, value1, value2):
         case '/':
             return (value1 / value2)
 ​
-​
 def main():
     operator, value1, value2 = "", "", ""
     while (bool):
